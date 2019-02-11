@@ -1,7 +1,7 @@
 # README #
 
-See on esimese kodutöö failide hoidla, mida saab kasutada ainult algseks lugemiseks.
-Töötamiseks looge endale isiklik repositoorium, näiteks (privaatne) 'fork' bitbucket serverisse, millest saate luua klooni oma arvutisse.
+This repository is a solution for Java Algorithms homework number 1, second year of Tallinn University of Technology.
+
 
 ## Näidete kasutamine käsurealt ##
 #### Kompileerimine: ####
